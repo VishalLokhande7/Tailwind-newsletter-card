@@ -34,8 +34,8 @@ The project helped me practice layout design, responsive development, gradients,
 <p align="center">
 
 <!-- Replace with your screenshot -->
+<img width="1920" height="1080" alt="Screenshot (1210)" src="https://github.com/user-attachments/assets/42db32c0-792d-4664-9f82-379aec0d7c52" />
 
-<img src="screenshots/newsletter-card.png" alt="Newsletter Card"/>
 
 </p>
 
